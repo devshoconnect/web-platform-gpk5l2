@@ -1,0 +1,22 @@
+body .write {
+  background-color:#000000000;
+  text-align: center;
+  color: #fff ;
+  padding-top:10em;
+  font-family: helvetica;
+  font-size: 3em;
+
+
+
+align-items: center;
+justify-content: center;
+justify-self: center;
+margin-top: 50%;
+}
+.typewrite > .wrap {
+border-right: 0.08em solid white;
+}
+
+
+
+* { color:#fff; text-decoration: none;}
